@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaofa320
 - 👀 I’m interested in JS
-- 🌱 I’m currently learning html,JS,css
+- 🌱 I’m currently learning html,JS,css,vue
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 3335412590@qq.com
 
